@@ -1,4 +1,4 @@
-This repository contains logos for general use (experimental platform)
+This repository contains logos and other documents for general use (experimental platform)
 
 Source declaration
 Logo for smartphone and hotel from here:<br>
